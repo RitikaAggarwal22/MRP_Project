@@ -1,0 +1,530 @@
+_id,Institution Name,Institution Address,Outbreak Setting,Type of Outbreak,Causative Agent-1,Causative Agent-2,Date Outbreak Began,Date Declared Over,Active
+1,The Heritage Nursing Home - 3rd Fl,1195 Queen St E,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-06-11,,Y
+2,Cummer Lodge - 2 North,205 Cummer Ave,LTCH,Respiratory,Pending,None,2025-06-10,,Y
+3,One Kenton Place - 1st & 2nd Fl,1 Kenton Dr,Retirement Home,Respiratory,Pending,None,2025-06-09,,Y
+4,The O'Neill Centre - 3rd Fl,33 Christie St,LTCH,Respiratory,Pending,None,2025-06-09,,Y
+5,Rockcliffe Care Community - Ground Fl,3015 Lawrence Ave E,LTCH,Respiratory,Respiratory syncytial virus,None,2025-06-07,,Y
+6,Chartwell Gibson - 2nd & 4th Fl,1925 Steeles Ave E,LTCH,Respiratory,Rhinovirus,None,2025-06-06,,Y
+7,Trillium Health Partners - McCall Centre for Continuing Care - 3rd Fl,140 Sherway Dr,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-06-05,,Y
+8,Trillium Health Partners - McCall Centre for Continuing Care - 4th Fl,140 Sherway Dr,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-06-03,,Y
+9,Lakeshore Lodge - 3 South & 3 North,3197 Lakeshore Blvd W,LTCH,Respiratory,Metapneumovirus,None,2025-06-02,,Y
+10,Nisbet Lodge - 6th Fl,740 Pape Ave,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-06-02,,Y
+11,Belmont House - 2 East,55 Belmont St,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-06-01,2025-06-11,N
+12,Weston Terrace Care Community - 2A,2005 Lawrence Ave W,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-05-30,,Y
+13,Kipling Acres - 1 South Pinepoint,2233 Kipling Ave,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-05-27,2025-06-05,N
+14,Rockcliffe Care Community - 1st Fl,3015 Lawrence Ave E,LTCH,Respiratory,Parainfluenza,None,2025-05-27,2025-06-02,N
+15,Lakeshore Lodge - 2 South,3197 Lakeshore Blvd W,LTCH,Respiratory,Metapneumovirus,None,2025-05-26,2025-05-28,N
+16,Baycrest Apotex Centre - Jewish Home for the Aged - 2EI,3560 Bathurst St,LTCH,Respiratory,Metapneumovirus,None,2025-05-26,2025-06-07,N
+17,Wesburn Manor - 4 North,400 The West Mall,LTCH,Respiratory,Rhinovirus,None,2025-05-26,2025-06-06,N
+18,"Kensington Gardens (South Building) - 1W, 1E & 4E",25 Brunswick Ave,LTCH,Respiratory,Coronavirus*,None,2025-05-25,,Y
+19,Kennedy Lodge - 1st & 2nd Fl,1400 Kennedy Rd,LTCH,Respiratory,Parainfluenza,None,2025-05-24,,Y
+20,Eatonville Care Centre - 5th Fl,420 The East Mall,LTCH,Respiratory,Metapneumovirus,None,2025-05-23,,Y
+21,The Millwood Retirement Residence,390 Millwood Rd,Retirement Home,Respiratory,Parainfluenza,None,2025-05-22,2025-06-08,N
+22,Harold and Grace Baker Centre Nursing Home - C Wing,1 Northwestern Ave,LTCH,Respiratory,Rhinovirus,None,2025-05-21,2025-06-02,N
+23,Rayoak Place Retirement Home,1340 York Mills Rd,Retirement Home,Respiratory,Metapneumovirus,None,2025-05-21,2025-06-03,N
+24,Kennedy Lodge - 3rd Fl,1400 Kennedy Rd,LTCH,Respiratory,Metapneumovirus,None,2025-05-21,,Y
+25,Venvi Kingsway Retirement Residence,4251 Dundas St W,Retirement Home,Respiratory,Parainfluenza,None,2025-05-21,2025-06-05,N
+26,Weston Terrace Care Community - 4B,2005 Lawrence Ave W,LTCH,Respiratory,Coronavirus*,None,2025-05-20,2025-06-03,N
+27,Extendicare Guildwood - West,60 Guildwood Pky,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-05-20,2025-06-06,N
+28,Venvi Guildwood Retirement Residence - 2nd Fl Memory Living,65 Livingston Rd,Retirement Home,Respiratory,COVID-19,None,2025-05-19,2025-05-30,N
+29,Villa Colombo Home for the Aged - 4 West & 4 North,40 Playfair Ave,LTCH,Respiratory,Rhinovirus,None,2025-05-18,2025-06-05,N
+30,Rockcliffe Care Community - 2nd Fl,3015 Lawrence Ave E,LTCH,Respiratory,Metapneumovirus,None,2025-05-16,2025-06-06,N
+31,Ivan Franko Home - 2 South,767 Royal York Rd,LTCH,Respiratory,Rhinovirus,None,2025-05-16,2025-05-26,N
+32,Unity Health Toronto - St Joseph's Health Centre - 3M,30 The Queensway,Hospital-Acute Care,Respiratory,Influenza A (Not subtyped),None,2025-05-15,2025-05-30,N
+33,Harold and Grace Baker Centre Retirement Home,1 Northwestern Ave,Retirement Home,Respiratory,Enterovirus/ Rhinovirus,None,2025-05-14,2025-06-06,N
+34,Eatonville Care Centre - 2nd & 3rd Fl,420 The East Mall,LTCH,Respiratory,Parainfluenza,None,2025-05-14,,Y
+35,Unity Health Toronto - Houses of Providence - 2 West Elm & Pine,3276 St. Clair Ave E,LTCH,Respiratory,Metapneumovirus,None,2025-05-13,2025-05-26,N
+36,"Weston Terrace Care Community - 1A, 2A, 2B & 3B",2005 Lawrence Ave W,LTCH,Respiratory,Parainfluenza,None,2025-05-12,2025-06-04,N
+37,Chester Village - 3rd Fl East,3555 Danforth Ave,LTCH,Respiratory,Metapneumovirus,None,2025-05-12,2025-05-23,N
+38,Tony Stacey Centre for Veterans Care - 1st Fl,59 Lawson Rd,LTCH,Respiratory,Rhinovirus,None,2025-05-12,2025-05-26,N
+39,Seven Oaks - 1st & 3rd Fl,9 Neilson Rd,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-05-12,2025-06-08,N
+40,Age Care Trilogy - 4th Fl,340 McCowan Rd,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-05-09,2025-05-28,N
+41,Extendicare Scarborough,3830 Lawrence Ave E,LTCH,Respiratory,Parainfluenza,None,2025-05-09,2025-06-06,N
+42,TEHN - Atrium at Kew Beach Unit - 2nd Fl West Wing,500 Kingston Rd,Transitional Care,Respiratory,Metapneumovirus,None,2025-05-09,2025-05-20,N
+43,The Hospital for Sick Children - 6A,555 University Ave,Hospital-Acute Care,Enteric,Rotavirus,None,2025-05-09,2025-05-14,N
+44,Sunnybrook Health Sciences Centre - Veterans Centre - LGSW,2075 Bayview Ave,LTCH,Respiratory,Coronavirus*,None,2025-05-08,2025-05-17,N
+45,Norfinch Care Community - 1A,22 Norfinch Dr,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-05-08,2025-05-17,N
+46,Kensington Gardens North - 2 East,45 Brunswick Ave,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-05-08,2025-05-14,N
+47,Delmanor West Village,18 Summerland Terr,Retirement Home,Respiratory,COVID-19,None,2025-05-07,2025-05-18,N
+48,The Wexford - 7th Fl,1860 Lawrence Ave E,LTCH,Respiratory,Rhinovirus,None,2025-05-07,2025-05-16,N
+49,UHN - Toronto Rehabiliitation Institute - Bickle Centre - North 3,130 Dunn Ave,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-05-06,2025-05-22,N
+50,North York General Hospital - Seniors' Health Centre - 1st Fl,2 Buchan Crt,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-05-06,2025-05-17,N
+51,True Davidson Acres - 5th Fl,200 Dawes Rd,LTCH,Respiratory,Metapneumovirus,None,2025-05-06,2025-05-16,N
+52,Humber Meadows Long Term Care Home - 4S,2109 Finch Ave W,LTCH,Respiratory,Rhinovirus,None,2025-05-06,2025-05-20,N
+53,Castleview Wychwood Towers - 2W,351 Christie St,LTCH,Respiratory,Parainfluenza,None,2025-05-06,2025-05-17,N
+54,Yee Hong - Scarborough Finch - 5th Fl,60 Scottfield Dr,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-05-06,2025-05-22,N
+55,Villa Colombo Homes for the Aged - 5 South,40 Playfair Ave,LTCH,Respiratory,Coronavirus*,None,2025-05-05,2025-05-15,N
+56,The Village of Humber Heights - Wadsworth & Islington,2245 Lawrence Ave W,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-05-04,2025-05-16,N
+57,"Chester Village - 1 West, 2 East & 4 West",3555 Danforth Ave,LTCH,Respiratory,Respiratory syncytial virus,None,2025-05-04,2025-05-28,N
+58,Carefree Lodge - Garden Level,306 Finch Ave E,LTCH,Respiratory,Rhinovirus,None,2025-05-03,2025-05-08,N
+59,Fountain View Care Community - 3A Woodland,1800 O'Connor Dr,LTCH,Respiratory,Metapneumovirus,None,2025-05-02,2025-05-12,N
+60,Amica Bayview Gardens - 2nd Fl (Assisted Living),19 Rean Dr,Retirement Home,Respiratory,Unable to identify,None,2025-05-02,2025-05-12,N
+61,Humber Meadows Long Term Care Home - 2S & 4N,2109 Finch Ave,LTCH,Respiratory,Metapneumovirus,None,2025-05-02,2025-05-28,N
+62,The Village of Humber Heights - Weston Unit,2245 Lawrence Ave W,LTCH,Respiratory,Coronavirus*,None,2025-05-01,2025-05-08,N
+63,The Wexford - 5th Fl,1860 Lawrence Ave E,Retirement Home,Respiratory,Coronavirus*,None,2025-04-30,2025-05-13,N
+64,North York General Hospital - General Site - 3N,4001 Leslie St,Hospital-Acute Care,Respiratory,Enterovirus/ Rhinovirus,None,2025-04-30,2025-05-07,N
+65,North York General Hospital - General Site - 3N,4001 Leslie St,Hospital-Acute Care,Respiratory,COVID-19,None,2025-04-30,2025-05-07,N
+66,Cummer Lodge - 4 South,205 Cummer Ave,LTCH,Respiratory,COVID-19,None,2025-04-29,2025-05-12,N
+67,Hellenic Home Scarborough - Unit 3B,2411 Lawrence Ave E,LTCH,Respiratory,Coronavirus*,None,2025-04-29,2025-05-07,N
+68,Weston Gardens Transitional Care Unit - 2nd & 3rd Fl,303 Queens Dr,Retirement Home,Enteric,Norovirus,None,2025-04-29,2025-05-08,N
+69,Rekai Centre Sherbourne Place - 4th Fl,345 Sherbourne St,LTCH,Respiratory,Coronavirus*,None,2025-04-29,2025-05-23,N
+70,"Villa Colombo Homes for the Aged - 2 North, 3 North, 5 North, 2 South, 3 South & 2 West",40 Playfair Ave,LTCH,Respiratory,Influenza A (H1N1),None,2025-04-29,2025-05-18,N
+71,Baycrest Apotex Centre - Jewish Home for the Aged - 7GS,3560 Bathurst St,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-04-28,2025-05-07,N
+72,AgeCare Westbury Long Term Care Residence - 5th Fl,495 The West Mall,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-04-28,2025-05-12,N
+73,Aspira Kensington Place Retirement Residence,866 Sheppard Ave W,Retirement Home,Respiratory,Influenza A ((H1N1)pdm09),None,2025-04-28,2025-05-08,N
+74,Cummer Lodge - 3 North,205 Cummer Ave,LTCH,Respiratory,Metapneumovirus,None,2025-04-26,2025-05-12,N
+75,Fairview Nursing Home - 2nd Fl,14 Cross St,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-04-25,2025-05-07,N
+76,Scarborough Health Network - General Hospital - T7,3050 Lawrence Ave E,Hospital-Acute Care,Respiratory,COVID-19,None,2025-04-25,2025-05-04,N
+77,Yee Hong Centre Scarborough McNicoll - 3rd & 5th Fl,2311 McNicoll Ave,LTCH,Respiratory,Metapneumovirus,None,2025-04-24,2025-05-22,N
+78,Presentation Manor - 2nd Fl,61 Fairfax Cres,Retirement Home,Enteric,Unable to identify,None,2025-04-24,2025-05-01,N
+79,Main Street Terrace Long Term Care Home - 1st Fl,77 Main St,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-04-24,2025-05-01,N
+80,Midland Gardens Care Community - 3rd Fl,130 Midland Ave,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-04-23,2025-05-13,N
+81,Better Living at Thompson House - 4th Fl,1 Overland Dr,LTCH,Respiratory,Coronavirus*,None,2025-04-22,2025-04-28,N
+82,"New Horizons Tower - 7th, 8th, 9th, 11th, 12th, 15th & 16th Fl",1140 Bloor St W,Retirement Home,Respiratory,Coronavirus*,None,2025-04-22,2025-04-29,N
+83,Norfinch Care Community - 2B,22 Norfinch Dr,LTCH,Respiratory,Coronavirus*,None,2025-04-22,2025-04-26,N
+84,Weston Gardens Retirement Residence,303 Queens Dr,Retirement Home,Enteric,Norovirus,None,2025-04-22,2025-05-12,N
+85,Forestview Retirement Residence - 5th Fl,537 Finch Ave W,Retirement Home,Respiratory,COVID-19,None,2025-04-22,2025-04-30,N
+86,Tendercare Living Center - 2nd Fl,1020 McNicoll Ave,LTCH,Respiratory,Parainfluenza,None,2025-04-21,2025-05-01,N
+87,Rekai Centre Sherbourne Place - 2nd Fl,345 Sherbourne St,LTCH,Enteric,Norovirus,None,2025-04-21,2025-05-03,N
+88,Eatonville Care Centre - 3rd & 5th Fl,420 The East Mall,LTCH,Respiratory,Parainfluenza,None,2025-04-21,2025-05-05,N
+89,Cedarbrook Transitional Care Unit - 5th & 6th Fl,520 Markham Rd,Retirement Home,Respiratory,Influenza A (Not subtyped),None,2025-04-21,2025-05-07,N
+90,"The Teddington - 2nd, 4th & 5th Fl",4 Teddington Park Ave,Retirement Home,Respiratory,Parainfluenza,None,2025-04-20,2025-05-11,N
+91,Unity Health Toronto - St. Joseph's Health Centre - 6G,30 The Queensway,Hospital-Acute Care,Respiratory,COVID-19,None,2025-04-18,2025-05-02,N
+92,Weston Gardens Retirement Residence,303 Queens Dr,Retirement Home,Respiratory,Rhinovirus,None,2025-04-18,2025-05-05,N
+93,"Cedarbrook Lodge Retirement Residence - 3rd, 4th & 5th Fl",520 Markham Rd,Retirement Home,Respiratory,Influenza A (Not subtyped),None,2025-04-18,2025-05-01,N
+94,Extendicare Rouge Valley - 1st Fl Highland Creek Locked Unit,551 Conlins Rd,LTCH,Respiratory,Parainfluenza,None,2025-04-18,2025-05-01,N
+95,Weston Terrace Care Community - 4B,2005 Lawrence Ave W,LTCH,Enteric,Unable to identify,None,2025-04-14,2025-04-28,N
+96,The Village of Humber Heights Retirement Home - Main Fl - Williamsberg West & East,2245 Lawrence Ave W,Retirement Home,Respiratory,Enterovirus/ Rhinovirus,None,2025-04-14,2025-04-23,N
+97,Chester Village - 2 East - Sapphire Home,3555 Danforth Ave,LTCH,Respiratory,Coronavirus*,None,2025-04-14,2025-04-23,N
+98,Villa Colombo Toronto Homes for the Aged - 4 Fusco North,40 Playfair Ave,LTCH,Respiratory,Metapneumovirus,None,2025-04-14,2025-04-20,N
+99,Eatonville Care Centre - 3rd & 5th Fl,420 The East Mall,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-04-14,2025-05-01,N
+100,Hawthorne Place Care Centre - 1st (Convalescent & LTC) & 3rd Fl,2045 Finch Ave W,LTCH,Respiratory,COVID-19,None,2025-04-12,2025-05-12,N
+101,Downsview Long Term Care Centre - 1 East & 1 Centre,3595 Keele St,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-04-12,2025-04-23,N
+102,Yee Hong Centre Scarborough Finch - 3rd Fl,60 Scottfield Dr,LTCH,Respiratory,Influenza A (H1N1),None,2025-04-12,2025-04-27,N
+103,Sts. Peter and Paul Retirement Residence - 3rd Fl,221 Milner Ave,Retirement Home,Respiratory,COVID-19,None,2025-04-11,2025-04-23,N
+104,Hazelton Place Retirement Residence,111 Avenue Rd,Retirement Home,Enteric,Norovirus,None,2025-04-10,2025-04-28,N
+105,Shepherd Lodge - 3 South,3760 Sheppard Ave E,LTCH,Respiratory,Rhinovirus,None,2025-04-10,2025-04-14,N
+106,Unity Health Toronto - Houses of Providence - 4 West - Oak & Willow,3276 St. Clair Ave E,LTCH,Enteric,Unable to identify,None,2025-04-09,2025-04-14,N
+107,Unity Health Toronto - Houses of Providence - 1 East,3276 St. Clair Ave E,LTCH,Respiratory,Parainfluenza,None,2025-04-08,2025-04-11,N
+108,Fudger House - 1 West & 2 West,439 Sherbourne St,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-04-08,2025-04-27,N
+109,Kensington Gardens - 1 West,45 Brunswick Ave,LTCH,Respiratory,Parainfluenza,None,2025-04-08,2025-04-21,N
+110,Hellenic Home - Scarborough - 3A,2411 Lawrence Ave E,LTCH,Respiratory,Coronavirus*,None,2025-04-07,2025-04-26,N
+111,Eatonville Care Centre - 3rd Fl,420 The East Mall,LTCH,Respiratory,Coronavirus*,None,2025-04-07,2025-04-17,N
+112,AgeCare Westbury Long Term Care Residence - 4th Fl - Centennial Park,495 The West Mall,LTCH,Respiratory,Coronavirus*,None,2025-04-04,2025-04-16,N
+113,Hawthorne Place Care Centre - 2 Chestnut Grove,2045 Finch Ave W,LTCH,Respiratory,COVID-19,None,2025-04-03,2025-04-17,N
+114,The Annex Retirement Residence - 2nd & 4th Fl,123 Spadina Rd,Retirement Home,Respiratory,Metapneumovirus,None,2025-04-02,2025-04-10,N
+115,Harmony Hills Care Community - 3A,1800 O'Connor Dr,LTCH,Respiratory,Parainfluenza,None,2025-04-02,2025-04-17,N
+116,Weston Terrace Care Community - 3A,2005 Lawrence Ave W,LTCH,Respiratory,Coronavirus*,None,2025-04-01,2025-04-16,N
+117,Unity Health Toronto - Houses of Providence - 3 East - Cedar & Aspen,3276 St. Clair Ave E,LTCH,Respiratory,Parainfluenza,None,2025-04-01,2025-04-10,N
+118,Age Care Trilogy - 6th Fl,340 McCowan Rd,LTCH,Respiratory,Coronavirus*,None,2025-04-01,2025-04-09,N
+119,Donway Place - 1st Fl,8 The Donway E,Retirement Home,Respiratory,Coronavirus*,None,2025-04-01,2025-04-08,N
+120,Downsview Long Term Care Centre - 2 Centre,3595 Keele St,LTCH,Respiratory,Rhinovirus,None,2025-03-31,2025-04-09,N
+121,AgeCare Westbury Long Term Care Residence - 2nd Fl - The Kingsway,495 The West Mall,LTCH,Respiratory,COVID-19,None,2025-03-31,2025-04-11,N
+122,Belmont House - 2E,55 Belmont St,LTCH,Respiratory,COVID-19,None,2025-03-31,2025-04-10,N
+123,The Heritage Nursing Home - 4th Fl,1195 Queen St E,LTCH,Respiratory,Respiratory syncytial virus,None,2025-03-30,2025-04-22,N
+124,The Kensington Gardens - 1 West & 1 East,45 Brunswick Ave,LTCH,Respiratory,Coronavirus*,None,2025-03-30,2025-04-14,N
+125,Chartwell Gibson Retirement Residence,1955 Steeles Ave E,Retirement Home,Enteric,Norovirus,None,2025-03-29,2025-04-08,N
+126,Better Living at Thompson House - 2nd Fl,1 Overland Dr,LTCH,Respiratory,Influenza A (H1N1),None,2025-03-28,2025-04-11,N
+127,"Wesburn Manor - 2 North, 2 South, 3 North & 3 South",400 The West Mall,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-03-28,2025-04-22,N
+128,Belmont House - 3W,55 Belmont St,LTCH,Respiratory,Coronavirus*,None,2025-03-28,2025-04-06,N
+129,Chartwell Gibson Long Term Care Residence - 3rd Fl,1925 Steeles Ave E,LTCH,Respiratory,COVID-19,None,2025-03-27,2025-04-10,N
+130,"The Claremont Retirement Residence - 2nd, 4th & 5th Fl",305 Balliol St,Retirement Home,Respiratory,Respiratory syncytial virus,None,2025-03-27,2025-04-08,N
+131,Rekai Centre Sherbourne Place - 3rd & 4th Fl,345 Sherbourne St,LTCH,Respiratory,Coronavirus*,None,2025-03-27,2025-04-22,N
+132,Humber Valley Terrace - 2nd & 3rd Fl,95 Humber College Blvd,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-03-27,2025-04-09,N
+133,Baycrest Apotex Centre - Jewish Home for the Aged - 3RF,3560 Bathurst St,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-03-26,2025-04-13,N
+134,Christie Gardens Apartment and Care - Seaton,600 Melita Cres,Retirement Home,Respiratory,COVID-19,None,2025-03-26,2025-04-03,N
+135,Norfinch Community - 3rd Fl,22 Norfinch Dr,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-03-25,2025-04-01,N
+136,Yee Hong Scarborough McNicoll - 2nd & 5th Fl,2311 McNicoll Ave,LTCH,Enteric,Norovirus,None,2025-03-25,2025-04-07,N
+137,Ukrainian Canadian Care Centre - 2nd Fl,60 Richview Rd,LTCH,Respiratory,Influenza A (H1N1),None,2025-03-25,2025-03-31,N
+138,Leaside - 4th Fl,14 William Morgan Dr,Retirement Home,Respiratory,Coronavirus*,None,2025-03-24,2025-04-03,N
+139,Unity Health Toronto - Houses of Providence - 4E,3276 St. Clair Ave E,LTCH,Respiratory,Coronavirus*,Parainfluenza,2025-03-24,2025-04-16,N
+140,Mon Sheong Home for the Aged - 4th Fl,36 D'Arcy St,LTCH,Enteric,Norovirus,None,2025-03-24,2025-04-01,N
+141,Eatonville Care Centre - 5th Fl,420 The East Mall,LTCH,Respiratory,Rhinovirus,None,2025-03-24,2025-04-10,N
+142,Extendicare Rouge Valley - Morrish Unit,551 Conlins Rd,LTCH,Respiratory,COVID-19,None,2025-03-24,2025-04-04,N
+143,Tony Stacey Centre for Veterans Care - 1 East,59 Lawson Rd,LTCH,Respiratory,Influenza A (H1N1),None,2025-03-24,2025-04-01,N
+144,Isabel and Arthur Meighen Manor - 4th Fl - Moore South,155 Millwood Rd,LTCH,Respiratory,Influenza A (H1),None,2025-03-23,2025-03-29,N
+145,Maynard Nursing Home,28 Halton St,LTCH,Respiratory,Influenza A (H1N1),None,2025-03-22,2025-04-09,N
+146,Extendicare Guildwood,60 Guildwood Pky,LTCH,Enteric,Norovirus,None,2025-03-22,2025-04-14,N
+147,Sunnybrook Health Sciences Centre - K3CA,2075 Bayview Ave,Hospital-Acute Care,Other,CPE Colonization Citrobacter freundii (KPC),"CPE Infection E.coli (NDM), VRE",2025-03-21,2025-05-02,N
+148,"Ivan Franko Home - 1W, 2S & 3S",767 Royal York Rd,LTCH,Respiratory,Coronavirus*,None,2025-03-21,2025-04-09,N
+149,UHN - RCC - Trillium Health Partners - 3W LP Rehab,82 Buttonwood Ave,Hospital-Chronic Care,Respiratory,Coronavirus*,None,2025-03-21,2025-03-28,N
+150,Unity Health Toronto - Houses of Providence - 2 East - Chestnut,3276 St. Clair Ave E,LTCH,Respiratory,Coronavirus*,None,2025-03-20,2025-03-29,N
+151,Eatonville Care Centre - 2nd Fl,420 The East Mall,LTCH,Respiratory,Coronavirus*,None,2025-03-20,2025-03-30,N
+152,Christie Gardens Apartments and Care - Annex Neighbourhood,600 Melita Cres,Retirement Home,Respiratory,Coronavirus*,None,2025-03-20,2025-04-02,N
+153,Scarborough Health Network - General Hospital - T7,3050 Lawrence Ave E,Hospital-Acute Care,Respiratory,Influenza A (H1),None,2025-03-19,2025-04-02,N
+154,Villa Colombo Homes for the Aged - 2 Fidani,40 Playfair Ave,LTCH,Respiratory,Coronavirus*,None,2025-03-19,2025-03-20,N
+155,Deerwood Creek Community - 2B,70 Humberline Dr,LTCH,Enteric,Unable to identify,None,2025-03-19,2025-03-27,N
+156,Shepherd Lodge - 5th & 7th Fl,3760 Sheppard Ave E,LTCH,Enteric,Norovirus,None,2025-03-18,2025-03-27,N
+157,Trillium Health Partners - McCall Centre for Continuing Care - 3rd Fl,140 Sherway Dr,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-03-17,2025-03-28,N
+158,The Wexford Residence - 6th & 7th Fl,1860 Lawrence Ave E,LTCH,Respiratory,Coronavirus*,None,2025-03-17,2025-04-07,N
+159,Chartwell Gibson Long Term Care Residence - 3rd Fl,1925 Steeles Ave E,LTCH,Respiratory,Unable to identify,None,2025-03-17,2025-03-27,N
+160,Weston Terrace Care Community - 2nd Fl,2005 Lawrence Ave W,LTCH,Respiratory,Coronavirus*,None,2025-03-17,2025-03-20,N
+161,Chartwell Grenadier Retirement Residence - Building A - 3rd & 4th Fl,2100 Bloor St W,Retirement Home,Respiratory,Influenza A (H1N1),None,2025-03-17,2025-03-25,N
+162,Rockcliffe Care Community - 2nd Fl,3015 Lawrence Ave E,LTCH,Respiratory,Coronavirus*,None,2025-03-17,2025-03-24,N
+163,Ehatare Nursing Home - 4th Fl,40 Old Kingston Rd,LTCH,Respiratory,COVID-19,None,2025-03-17,2025-04-01,N
+164,"Dunfield Retirement Residence - 3rd, 4th, 6th, 9th, 11th, 15th & 16th Fl",77 Dunfield Ave,Retirement Home,Enteric,Norovirus,None,2025-03-16,2025-03-31,N
+165,Unity Health Toronto - Houses of Providence - 1 West,3276 St. Clair Ave E,LTCH,Respiratory,COVID-19,None,2025-03-15,2025-03-24,N
+166,Unity Health Toronto - Houses of Providence - 3 West,3276 St. Clair Ave E,LTCH,Respiratory,COVID-19,None,2025-03-15,2025-03-24,N
+167,Deerwood Creek Community - 1A,70 Humberline Dr,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-03-15,2025-04-14,N
+168,The Village of Humber Heights - 2nd Fl - Egerton,2245 Lawrence Ave W,Retirement Home,Respiratory,Respiratory syncytial virus,None,2025-03-14,2025-03-27,N
+169,Extendicare Bayview - South Wing & East Wing,550 Cummer Ave,LTCH,Respiratory,COVID-19,None,2025-03-14,2025-04-04,N
+170,Glen Rouge Community,92 Island Rd,LTCH,Respiratory,Coronavirus*,None,2025-03-14,2025-03-27,N
+171,Lakeside Long Term Care Centre - 1st Fl,150 Dunn Ave,LTCH,Enteric,Unable to identify,None,2025-03-13,2025-03-23,N
+172,Lakeside Long Term Care Centre - 2nd & 3rd Fl,150 Dunn Ave,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-03-13,2025-03-25,N
+173,Weston Terrace Care Community - 4B Fl,2005 Lawrence Ave W,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-03-13,2025-03-31,N
+174,Kennedy Lodge - 2nd Fl,1400 Kennedy Rd,LTCH,Respiratory,Influenza A (H1N1),None,2025-03-12,2025-03-21,N
+175,"Rockcliffe Care Community - 1st, 2nd & 3rd Fl",3015 Lawrence Ave E,LTCH,Respiratory,Influenza A ((H1N1)pdm09),None,2025-03-12,2025-03-31,N
+176,Copernicus Lodge - 2nd Fl North - Memory Care,66 Roncesvalles Ave,LTCH,Respiratory,Influenza A (H1N1),None,2025-03-12,2025-03-17,N
+177,"Nisbet Lodge - 3rd, 7th & 8th Fl",740 Pape Ave,LTCH,Respiratory,Influenza A (H1N1),None,2025-03-12,2025-03-26,N
+178,Unity Health Toronto - Houses of Providence - 3E - Cedar & Aspen,3276 St. Clair Ave E,LTCH,Respiratory,Coronavirus*,None,2025-03-11,2025-03-19,N
+179,Castleview Wychwood Towers - 7th Fl,351 Christie St,LTCH,Enteric,Norovirus,None,2025-03-11,2025-03-25,N
+180,Suomi-Koti - 1st Fl,795 Eglinton Ave E,LTCH,Respiratory,Coronavirus*,None,2025-03-11,2025-03-19,N
+181,Sinai Health - Hennick Bridgepoint Hospital - 2S,1 Bridgepoint Dr,Hospital-Chronic Care,Respiratory,Respiratory syncytial virus,None,2025-03-10,2025-03-15,N
+182,Better Living at Thompson House,1 Overland Dr,LTCH,Enteric,Norovirus,None,2025-03-10,2025-03-22,N
+183,Midland Gardens Care Community - 6th Fl,130 Midland Ave,LTCH,Respiratory,Coronavirus*,None,2025-03-10,2025-03-17,N
+184,Trillium Health Partners - McCall Centre for Continuing Care - 4th Fl,140 Sherway Dr,Hospital-Chronic Care,Respiratory,Influenza A (Not subtyped),None,2025-03-10,2025-03-23,N
+185,Sisters of St. Joseph - 3rd Fl,2 O'Connor Dr,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-03-10,2025-03-18,N
+186,RCC - Church Site - St. Joseph's Health Centre - 4B,200 Church St,Hospital-Chronic Care,Respiratory,Influenza A (Not subtyped),None,2025-03-10,2025-03-18,N
+187,Cummer Lodge - 4th Fl North Unit,205 Cummer Ave,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-03-10,2025-03-24,N
+188,Unity Health Toronto - Houses of Providence - 2W - Elm & Pine,3276 St. Clair Ave E,LTCH,Respiratory,COVID-19,None,2025-03-10,2025-03-29,N
+189,Ehatare Retirement Home,40 Old Kingston Rd,Retirement Home,Respiratory,Coronavirus*,None,2025-03-10,2025-03-17,N
+190,The Heritage Nursing Home - 2nd & 3rd Fl,1195 Queen St E,LTCH,Enteric,Norovirus,None,2025-03-09,2025-03-21,N
+191,Unity Health Toronto - St. Joseph's Health Centre - 2E,30 The Queensway,Hospital-Acute Care,Respiratory,Influenza A (Not subtyped),None,2025-03-08,2025-03-15,N
+192,"The Annex Retirement Residence - 1st, 2nd, 3rd & 4th Fl",123 Spadina Rd,Retirement Home,Respiratory,COVID-19,None,2025-03-07,2025-03-24,N
+193,Weston Terrace Care Community - 1st & 4th Fl,2005 Lawrence Ave W,LTCH,Respiratory,COVID-19,None,2025-03-07,2025-04-07,N
+194,St. George Care Community - 1st Fl,225 St. George St,LTCH,Respiratory,COVID-19,None,2025-03-07,2025-03-21,N
+195,Scarborough Health Network - Birchmount Hospital - G4C,3030 Birchmount Rd,Hospital-Acute Care,Respiratory,Influenza A (Not subtyped),None,2025-03-07,2025-03-16,N
+196,Carefree Lodge - 1st Fl,306 Finch Ave E,LTCH,Respiratory,Influenza A (H1),None,2025-03-07,2025-03-19,N
+197,Unity Health Toronto - Houses of Providence - 1E - Redwood & Birch,3276 St. Clair Ave E,LTCH,Respiratory,Coronavirus*,None,2025-03-07,2025-03-20,N
+198,Unity Health Toronto - Providence Healthcare Centre - A4,3276 St. Clair Ave E,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-03-07,2025-03-14,N
+199,Wesburn Manor - 4 South,400 The West Mall,LTCH,Respiratory,Coronavirus*,None,2025-03-07,2025-03-25,N
+200,Belmont House - 2E,55 Belmont St,LTCH,Respiratory,COVID-19,None,2025-03-07,2025-03-25,N
+201,North York General Hospital - Seniors' Health Centre - 4th Fl,2 Buchan Crt,LTCH,Respiratory,Coronavirus*,None,2025-03-06,2025-03-21,N
+202,Sunnybrook Health Sciences Centre - Sunnybrook Veterans Centre - LSSE,2075 Bayview Ave,LTCH,Enteric,Norovirus,None,2025-03-06,2025-03-17,N
+203,Extendicare Scarborough - 2 West,3830 Lawrence Ave E,LTCH,Respiratory,COVID-19,None,2025-03-06,2025-03-14,N
+204,Ehatare Retirement Home,40 Old Kingston Rd,Retirement Home,Respiratory,COVID-19,None,2025-03-06,2025-03-29,N
+205,UHN - Princess Margaret Hospital - 14C,610 University Ave,Hospital-Acute Care,Respiratory,Respiratory syncytial virus,None,2025-03-05,2025-03-13,N
+206,True Davidson Acres - 4th Fl,200 Dawes Rd,LTCH,Respiratory,Parainfluenza,None,2025-03-04,2025-03-20,N
+207,Kipling Acres - 2 South Elm & 2 North Highfield,2223 Kipling Ave,LTCH,Enteric,Norovirus,None,2025-03-04,2025-03-14,N
+208,St.Clair O'Connor Community Nursing Home - 3rd Fl,2701 St.Clair Ave E,LTCH,Respiratory,Coronavirus*,None,2025-03-04,2025-03-12,N
+209,The Millwood - 3rd & 4th Fl,921 Millwood Rd,Retirement Home,Respiratory,COVID-19,None,2025-03-04,2025-03-13,N
+210,Kennedy Lodge - Ground Fl,1400 Kennedy Rd,LTCH,Respiratory,Influenza A (H1N1),None,2025-03-03,2025-03-12,N
+211,Unity Health Toronto - St. Joseph's Health Centre - 6G,30 The Queensway,Hospital-Acute Care,Respiratory,Influenza A (Not subtyped),None,2025-03-03,2025-03-16,N
+212,Unity Health Toronto - Providence Healthcare Centre - A3,3276 St. Clair Ave E,Hospital-Chronic Care,Respiratory,Coronavirus*,None,2025-03-03,2025-03-10,N
+213,Age Care Trilogy - 5th & 7th Fl,340 McCowan Rd,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-03-03,2025-03-14,N
+214,Castleview Wychwood Towers - 3rd Fl,351 Christie St,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-03-03,2025-03-21,N
+215,Villa Colombo Homes for the Aged - 3 Fidani,40 Playfair Ave,LTCH,Respiratory,Respiratory syncytial virus,None,2025-03-03,2025-03-08,N
+216,North York General Hospital - General Site - 5SE,4001 Leslie St,Hospital-Acute Care,Enteric,Norovirus,None,2025-03-03,2025-03-12,N
+217,Parkland on Eglinton West - 2nd & 4th Fl,4650 Eglinton Ave W,Retirement Home,Enteric,Norovirus,None,2025-03-03,2025-03-20,N
+218,Belmont House - 2WW & 5WW,55 Belmont St,LTCH,Respiratory,Coronavirus*,None,2025-03-03,2025-03-14,N
+219,Harold and Grace Baker Center - 4th Fl,1 Northwestern Ave,Retirement Home,Respiratory,Coronavirus*,None,2025-02-28,2025-03-22,N
+220,Midland Gardens Care Community - 3rd & 5th Fl,130 Midland Ave,LTCH,Respiratory,Parainfluenza,None,2025-02-28,2025-03-22,N
+221,Baycrest Hospital - H7W,3560 Bathurst St,Hospital-Chronic Care,Enteric,Unable to identify,None,2025-02-28,2025-03-08,N
+222,Downsview Long Term Care Centre - 2 North,3595 Keele St,LTCH,Respiratory,Influenza A (H1N1),None,2025-02-28,2025-03-23,N
+223,Mon Sheong Home for the Aged - 5th Fl,36 D'Arcy St,LTCH,Respiratory,COVID-19,None,2025-02-28,2025-03-10,N
+224,Seven Oaks - 1st Fl,9 Neilson Rd,LTCH,Respiratory,Coronavirus*,None,2025-02-28,2025-03-07,N
+225,One Kenton Place - 2nd & 4th Fl,1 Kenton Dr,Retirement Home,Respiratory,Influenza A (H3),None,2025-02-27,2025-03-09,N
+226,North York General Hospital - Seniors' Health Centre - 1st & 2nd Fl,2 Buchan Crt,LTCH,Respiratory,COVID-19,None,2025-02-27,2025-03-19,N
+227,Sunnybrook Health Sciences Centre - Sunnybrook Veterans Centre - LFSW,2075 Bayview Ave,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-02-27,2025-03-07,N
+228,North York General Hospital - General Site - 6W,4001 Leslie St,Hospital-Acute Care,Enteric,Norovirus,None,2025-02-27,2025-03-05,N
+229,Labdara Lithuanian Nursing Home - 1st Fl,5 Resurrection Rd,LTCH,Respiratory,Coronavirus*,None,2025-02-27,2025-03-12,N
+230,Weston Gardens Retirement Residents - 4th & 5th Fl,303 Queens Dr,Retirement Home,Respiratory,Influenza A (H1N1),Influenza A (Not subtyped),2025-02-26,2025-03-05,N
+231,Scarborough Health Network - General Hospital - 4C,3050 Lawrence Ave E,Hospital-Acute Care,Respiratory,Influenza A (H3),None,2025-02-26,2025-03-11,N
+232,Deerwood Creek Community - 3A,70 Humberline Dr,LTCH,Enteric,Unable to identify,None,2025-02-26,2025-03-08,N
+233,West Park Long Term Care Centre - Humber & York,150 Emmett Ave,LTCH,Respiratory,Coronavirus*,None,2025-02-25,2025-03-02,N
+234,Chartwell Gibson Long Term Care Residence,1925 Steeles Ave E,LTCH,Respiratory,Respiratory syncytial virus,None,2025-02-25,2025-03-28,N
+235,Scarborough Health Network - Birchmount Hospital - G3B,3030 Birchmount Rd,Hospital-Acute Care,Respiratory,Influenza A (H1),None,2025-02-25,2025-03-06,N
+236,Clarmont Retirement Residence,305 Balliol St,Retirement Home,Enteric,Unable to identify,None,2025-02-25,2025-03-04,N
+237,Belmont House - 3rd Fl East,55 Belmont St,Retirement Home,Respiratory,Coronavirus*,None,2025-02-25,2025-03-04,N
+238,THP - McCall Centre For Continuing Care - 2nd Fl,140 Sherway Dr,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-02-24,2025-03-02,N
+239,Carefree Lodge - 2nd Fl,306 Finch Ave E,LTCH,Respiratory,COVID-19,None,2025-02-24,2025-04-04,N
+240,North York General Hospital - General Site - 7 West,4001 Leslie St,Hospital-Acute Care,Enteric,Unable to identify,None,2025-02-24,2025-03-04,N
+241,Norwood Nursing Home - 2nd Fl,122 Tyndall Ave,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-02-21,2025-02-26,N
+242,THP - The Moir Family Centre for Complex Contnuing Care - Moir Family Centre,150 Sherway Dr,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-02-21,2025-03-07,N
+243,Castleview Wychwood Towers - 2W,351 Christie St,LTCH,Respiratory,Respiratory syncytial virus,None,2025-02-21,2025-03-25,N
+244,Villa Colombo - 2 Fusco,40 Playfair Ave,LTCH,Enteric,Norovirus,None,2025-02-21,2025-03-31,N
+245,SHSC - Holland Orthopaedic & Arthritic Centre - 16E,43 Wellesley St,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-02-21,2025-03-03,N
+246,Dom Lipa - West 1,52 Neilson Dr,LTCH,Respiratory,Influenza A (Not subtyped),Influenza A (H1N1),2025-02-21,2025-03-02,N
+247,Valleyview Residence - 4th Fl,541 Finch Ave W,LTCH,Respiratory,Coronavirus*,None,2025-02-21,2025-02-27,N
+248,Donway Place,8 The Donway E,Retirement Home,Enteric,Unable to identify,None,2025-02-21,2025-03-08,N
+249,Harold and Grace Baker Centre - C Wing,1 Northwestern Ave,LTCH,Respiratory,Coronavirus*,None,2025-02-20,2025-03-03,N
+250,Lakeside Long Term Care Centre - 1st Fl,150 Dunn Ave,LTCH,Respiratory,Coronavirus*,None,2025-02-20,2025-03-17,N
+251,Weston Terrace - 3B Unit,2005 Lawrence Ave W,LTCH,Respiratory,Influenza A (H3),None,2025-02-20,2025-03-03,N
+252,TEHN - Atrium at Kew Beach - 2nd Fl East Wing,500 Kingston Rd,Hospital-Chronic Care,Enteric,Norovirus,None,2025-02-20,2025-02-28,N
+253,Harmony Hill Care Community - 3A & 3B,1800 O'Connor Dr,LTCH,Enteric,Norovirus,None,2025-02-19,2025-03-17,N
+254,The Wexford - 2nd Fl,1860 Lawrence Ave E,LTCH,Respiratory,COVID-19,None,2025-02-19,2025-03-07,N
+255,Unity Health Toronto - St. Joseph's Health Centre - 6G,30 The Queensway,Hospital-Acute Care,Respiratory,Respiratory syncytial virus,None,2025-02-19,2025-03-03,N
+256,Westside - 4th Fl,1145 Albion Rd,LTCH,Respiratory,Coronavirus*,None,2025-02-18,2025-03-03,N
+257,Humber River Hospital - Wilson Site - 12 East,1235 Wilson Ave,Hospital-Acute Care,Respiratory,Influenza A (Not subtyped),None,2025-02-18,2025-02-25,N
+258,North York General Hospital - Seniors' Health Centre - 3rd Fl,2 Buchan Crt,LTCH,Respiratory,Influenza A (H1),Coronavirus*,2025-02-18,2025-03-21,N
+259,Hawthorne Place Care Centre,2045 Finch Ave W,LTCH,Enteric,Unable to identify,None,2025-02-18,2025-03-14,N
+260,Cummer Lodge - 2 North,205 Cummer Ave,LTCH,Respiratory,Coronavirus*,None,2025-02-18,2025-03-02,N
+261,Hellenic Home for the Aged - 3A,2411 Lawrence Ave E,LTCH,Respiratory,Coronavirus*,None,2025-02-18,2025-02-27,N
+262,Unity Health Toronto - St. Joseph's Health Centre - 4M,30 The Queensway,Hospital-Acute Care,Respiratory,COVID-19,None,2025-02-18,2025-02-24,N
+263,Unity Health Toronto - St. Joseph's Health Centre - 4M,30 The Queensway,Hospital-Acute Care,Respiratory,Influenza A (Not subtyped),None,2025-02-18,2025-02-24,N
+264,"Weston Gardens Retirement Residents - 2nd, 3rd & 5th Fl",303 Queens Dr,Retirement Home,Respiratory,COVID-19,None,2025-02-18,2025-03-03,N
+265,UHN - Toronto Western Hospital - 8B,399 Bathurst St,Hospital-Acute Care,Respiratory,Influenza A ((H1N1)pdm09),Influenza A (H3),2025-02-18,2025-02-27,N
+266,Seven Oaks - 4th Fl,9 Neilson Rd,LTCH,Respiratory,Respiratory syncytial virus,None,2025-02-18,2025-02-25,N
+267,Better Living At Thompson House - 3rd Fl,1 Overland Dr,LTCH,Respiratory,Coronavirus*,None,2025-02-17,2025-03-03,N
+268,Belmont House - 3WW,55 Belmont St,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-02-17,2025-02-26,N
+269,Norfinch Care Community - 3B,22 Norfinch Dr,LTCH,Respiratory,Respiratory syncytial virus,None,2025-02-16,2025-02-25,N
+270,St. George Care Community,225 St. George St,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-02-14,2025-03-01,N
+271,McCowan Retirement Residence,2881 Eglinton Ave E,LTCH,Enteric,Norovirus,None,2025-02-14,2025-02-27,N
+272,Kensington Gardens (North) - 1 East,45 Brunswick Ave,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-02-14,2025-03-07,N
+273,Yee Hong Centre - Scarborough Finch - 4th Fl,60 Scottfield Dr,LTCH,Respiratory,Coronavirus*,None,2025-02-14,2025-03-03,N
+274,Deerwood Creek Care Community - 3A & 3B,70 Humberline Dr,LTCH,Respiratory,Respiratory syncytial virus,None,2025-02-14,2025-03-06,N
+275,TEHN - Michael Garron Hospital - A3,825 Coxwell Ave,Hospital-Acute Care,Respiratory,Influenza A (Not subtyped),None,2025-02-14,2025-02-25,N
+276,Sinai Health - Hennick Bridgepoint Hospital - 6S,1 Bridgepoint Dr,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-02-13,2025-02-23,N
+277,Craiglee Nursing Home - 2 East & West,102 Craigee Dr,LTCH,Enteric,Unable to identify,None,2025-02-13,2025-02-21,N
+278,Delmanor West Village,15 Summerland Terr,Retirement Home,Enteric,Norovirus,None,2025-02-13,2025-02-26,N
+279,Sisters of St. Joseph - 3rd & 4th Fl,2 O'Connor Dr,Hospital-Chronic Care,Respiratory,Coronavirus*,None,2025-02-13,2025-02-28,N
+280,Humber Meadows - 5th Fl North,2109 Finch Ave W,LTCH,Respiratory,COVID-19,None,2025-02-13,2025-03-05,N
+281,Chartwell Scarlett Heights - 2nd Fl,4005 Eglinton Ave W,Retirement Home,Respiratory,Coronavirus*,None,2025-02-13,2025-02-25,N
+282,Cheltenham Care Community - 2nd & 3rd Fl,5935 Bathurst St,LTCH,Enteric,Norovirus,None,2025-02-13,2025-03-17,N
+283,Venvi Guildwood Retirement Residence - 1st Fl,65 Livingston Road,Retirement Home,Respiratory,Influenza A (H1N1),None,2025-02-13,2025-02-18,N
+284,Kensington Place Retirement Residence - 3rd Fl,866 Sheppard Ave W,Retirement Home,Respiratory,Influenza A (Not subtyped),None,2025-02-13,2025-02-21,N
+285,Sage Care - 2nd & 3rd Fl,147 Elder St,Retirement Home,Respiratory,Influenza A (Not subtyped),None,2025-02-12,2025-02-19,N
+286,Weston Terrace Care Community - 2A,2005 Lawrence Ave W,LTCH,Respiratory,COVID-19,None,2025-02-12,2025-02-28,N
+287,Baycrest Apotex Centre - Jewish Home for the Aged - 7GS,3560 Bathurst St,LTCH,Respiratory,Respiratory syncytial virus,None,2025-02-12,2025-02-21,N
+288,Hazelton Place Retirement Residence - 2nd Fl,111 Avenue Rd,Retirement Home,Respiratory,Influenza A (Not subtyped),None,2025-02-11,2025-02-16,N
+289,"Fountain View Care Community - 2B, 3A & 3B",1800 O'Connor Dr,LTCH,Enteric,Unable to identify,None,2025-02-11,2025-03-03,N
+290,North York General Hospital - Seniors' Health Centre - 1st Fl,2 Buchan Crt,LTCH,Enteric,Norovirus,None,2025-02-11,2025-02-24,N
+291,True Davidson Acres - 3rd Fl,200 Dawes Rd,LTCH,Enteric,Unable to identify,None,2025-02-11,2025-02-22,N
+292,Eatonville Care Centre,420 The East Mall,LTCH,Respiratory,Influenza A (H1N1),None,2025-02-11,2025-03-07,N
+293,Deerwood Creek Care Community - 1st Fl,70 Humberline Dr,LTCH,Enteric,Unable to identify,None,2025-02-11,2025-02-19,N
+294,Seven Oaks - 3rd & 4th Fl,9 Neilson Rd,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-02-11,2025-03-07,N
+295,Sinai Health - Hennick Bridgepoint Hospital - 8N,1 Bridgepoint Dr,Hospital-Chronic Care,Enteric,Norovirus,None,2025-02-10,2025-02-15,N
+296,Centre for Addiction and Mental Health - Unit 1-4,1001 Queen St W,Hospital-Psychiatric,Respiratory,Influenza A (Not subtyped),None,2025-02-10,2025-02-16,N
+297,New Horizons Tower - 3rd Fl,1140 Bloor St W,Retirement Home,Respiratory,Influenza A (Not subtyped),None,2025-02-10,2025-02-18,N
+298,"Humber Meadows Long Term Care Home - 3N, 4N, 5N, 5S & 6N",2109 Finch Ave W,LTCH,Respiratory,Coronavirus*,None,2025-02-10,2025-03-05,N
+299,Baycrest Apotex Centre - Jewish Home for the Aged - 7EI,3560 Bathurst St,LTCH,Respiratory,Respiratory syncytial virus,None,2025-02-10,2025-02-17,N
+300,"Shepherd Lodge - 2 North, 2 South, 3 North, 3 South, 5 North & 6 South",3760 Sheppard Ave E,LTCH,Enteric,Unable to identify,None,2025-02-10,2025-03-03,N
+301,Forestview Retirement Residence,537 Finch Ave W,Retirement Home,Enteric,Norovirus,None,2025-02-10,2025-03-02,N
+302,Extendicare Bayview - South 2,550 Cummer Ave,LTCH,Respiratory,Influenza A (H1),None,2025-02-10,2025-02-24,N
+303,Bethseda Home,76 Silversted Dr,Retirement Home,Respiratory,Influenza A (Not subtyped),None,2025-02-10,2025-02-20,N
+304,Amica on the Avenue,1066 Avenue Rd,Retirement Home,Enteric,Norovirus,None,2025-02-09,2025-03-10,N
+305,Castleview Wychwood Towers - 2W,351 Christie St,LTCH,Respiratory,COVID-19,None,2025-02-09,2025-03-20,N
+306,St. Bernard's Residence,685 Finch Ave W,Retirement Home,Respiratory,COVID-19,None,2025-02-09,2025-02-26,N
+307,North York General Hospital - Seniors' Health Centre - 3rd Fl,2 Buchan Crt,LTCH,Respiratory,Respiratory syncytial virus,None,2025-02-08,2025-02-16,N
+308,"Age Care Trilogy - 1st, 4th, 5th, 6th & 7th Fl",340 McCowan Rd,LTCH,Respiratory,COVID-19,None,2025-02-08,2025-03-17,N
+309,North York General Hospital - General Site - 7 North,4001 Leslie St,Hospital-Acute Care,Respiratory,COVID-19,None,2025-02-08,2025-02-23,N
+310,Kennedy Lodge - Ground Fl,1400 Kennedy Rd,LTCH,Respiratory,Respiratory syncytial virus,None,2025-02-07,2025-02-19,N
+311,Norfinch Care Community - 3A,22 Norfinch Dr,LTCH,Respiratory,COVID-19,None,2025-02-07,2025-02-19,N
+312,Village of Humber Heights - 2nd Fl Williamsburg East,2245 Lawrence Ave W,Retirement Home,Enteric,Unable to identify,None,2025-02-07,2025-02-15,N
+313,Village of Humber Heights - 3rd Fl,2245 Lawrence Ave W,Retirement Home,Respiratory,Influenza A (Not subtyped),None,2025-02-07,2025-02-15,N
+314,Village of Humber Heights - Williamsburg East,2245 Lawrence Ave W,Retirement Home,Respiratory,COVID-19,None,2025-02-07,2025-02-16,N
+315,Village of Humber Heights - Williamsburg East,2245 Lawrence Ave W,Retirement Home,Respiratory,Unable to identify,None,2025-02-07,2025-02-15,N
+316,Valleyview Residence - 3E & 4W,541 Finch Ave W,LTCH,Respiratory,Metapneumovirus,None,2025-02-07,2025-03-03,N
+317,The Heritage Nursing Home - 3rd Fl,1195 Queen St E,LTCH,Enteric,Norovirus,None,2025-02-06,2025-02-20,N
+318,Presentation Manor,61 Fairfax Cres,Retirement Home,Respiratory,Coronavirus*,None,2025-02-06,2025-02-20,N
+319,Leaside Retirement Residence,10 William Morgan Dr,Retirement Home,Respiratory,Influenza A (H3),Influenza A (H1N1),2025-02-05,2025-02-18,N
+320,Hazelton Place Retirement Residence,111 Avenue Rd,Retirement Home,Respiratory,COVID-19,None,2025-02-05,2025-03-01,N
+321,Hellenic Care for Seniors - 1st Fl,215 Tyrrel Avenue,LTCH,Respiratory,Influenza A (H3),None,2025-02-05,2025-02-19,N
+322,Hellenic Care for Seniors - 1st Fl,215 Tyrrel Avenue,LTCH,Respiratory,Rhinovirus,None,2025-02-05,2025-02-19,N
+323,Belmont House - 5th Fl,55 Belmont St,LTCH,Respiratory,Respiratory syncytial virus,None,2025-02-05,2025-02-26,N
+324,Cheltenham Community - 2nd Fl,5935 Bathurst St,LTCH,Respiratory,COVID-19,None,2025-02-05,2025-02-19,N
+325,Nisbet Lodge,740 Pape Ave,LTCH,Enteric,Norovirus,None,2025-02-05,2025-02-24,N
+326,Canterbury Place Retirement Residence,1 Canterbury Pl,Retirement Home,Enteric,Norovirus,None,2025-02-04,2025-02-17,N
+327,Centre for Addiction and Mental Health - Unit 3-5,1001 Queen St W,Hospital-Psychiatric,Respiratory,COVID-19,None,2025-02-04,2025-02-12,N
+328,"Don Mills Retirement Residence - 3rd, 4th, 5th, 8th & 10th Fl",2 Green Belt Dr,Retirement Home,Enteric,Norovirus,None,2025-02-04,2025-02-18,N
+329,Weston Terrace Care Community - 1A & 4A Units,2005 Lawrence Ave W,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-02-04,2025-02-18,N
+330,"Kipling Acres - 1 South East (Humber), 3 South East (Thistletown) & 3 South West (Alder)",2233 Kipling Ave,LTCH,Enteric,Unable to identify,None,2025-02-04,2025-02-26,N
+331,"Villa Colombo Homes for the Aged - 4th Fl Fusco South, West & North",40 Playfair Ave,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-02-04,2025-02-24,N
+332,Cedarbrook Lodge Retirement Residence,520 Markham Rd,Retirement Home,Enteric,Unable to identify,None,2025-02-04,2025-02-27,N
+333,Runnymede Healthcare Centre - 3E,625 Runnymede Rd,Hospital-Chronic Care,Respiratory,Influenza A (Not subtyped),None,2025-02-04,2025-02-12,N
+334,Mon Sheong Foundation - SPH,2030 McNicoll Ave,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-02-03,2025-02-11,N
+335,Norfinch Care Community - Garden Place (Wing 3A),22 Norfinch Dr,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-02-03,2025-02-11,N
+336,Hellenic Home for the Aged - 3B,2411 Lawrence Ave E,LTCH,Respiratory,Respiratory syncytial virus,None,2025-02-03,2025-02-11,N
+337,Unity Health Toronto - Providence Healthcare - B4,3276 St. Clair Ave E,Hospital-Chronic Care,Respiratory,Influenza A (Not subtyped),None,2025-02-03,2025-02-10,N
+338,Castleview Wychwood Towers - 5th Fl,351 Christie St,LTCH,Enteric,Norovirus,None,2025-02-03,2025-02-11,N
+339,Ina Grafton Gage Home,40 Bell Estate Road,LTCH,Respiratory,COVID-19,None,2025-02-03,2025-02-18,N
+340,"Kingsway Retirement Residence - 2nd, 3rd & 4th Fl",4251 Dundas St W,Retirement Home,Respiratory,Influenza A (H1N1),None,2025-02-03,2025-02-16,N
+341,TEHN - Atrium At Kew Beach - 3rd Fl East Wing,500 Kingston Rd,Hospital-Chronic Care,Enteric,Norovirus,None,2025-02-03,2025-02-07,N
+342,Delmanor Northtown,5351 Yonge St,Retirement Home,Enteric,Norovirus,None,2025-02-03,2025-02-13,N
+343,Ukrainian Canadian Care Centre - 2nd & 3rd Fl,60 Richview Rd,LTCH,Respiratory,Coronavirus*,None,2025-02-03,2025-03-05,N
+344,Yee Hong Centre Scarborough Finch - 6th Fl,60 Scottfield Dr,LTCH,Respiratory,COVID-19,None,2025-02-03,2025-02-20,N
+345,The Village of Humber Heights - 2nd Fl Brule,2245 Lawrence Ave W,LTCH,Enteric,Unable to identify,None,2025-02-02,2025-02-12,N
+346,Cedarbrook Transitional Care Unit,520 Markham Rd,Retirement Home,Enteric,Unable to identify,None,2025-02-02,2025-02-14,N
+347,Weston Terrace Care Community - 3B,2005 Lawrence Ave W,LTCH,Respiratory,Respiratory syncytial virus,None,2025-01-31,2025-02-10,N
+348,Cedarhurst Dementia Care Home - 1st Fl,2601 Bayview Ave,Retirement Home,Respiratory,Influenza A (Not subtyped),None,2025-01-31,2025-02-10,N
+349,Eatonville Care Centre - 2nd Fl,420 The East Mall,LTCH,Respiratory,Rhinovirus,None,2025-01-31,2025-02-25,N
+350,Extendicare Rouge Valley - 1st Fl (BSTU),551 Conlins Rd,LTCH,Respiratory,Coronavirus*,None,2025-01-31,2025-02-13,N
+351,Extendicare Rouge Valley - 3rd Fl Meadowvale,551 Conlins Rd,LTCH,Respiratory,Influenza A (H1),None,2025-01-31,2025-02-12,N
+352,Ukrainian Canadian Care Centre - 2nd Fl,60 Richview Road,LTCH,Respiratory,Respiratory syncytial virus,None,2025-01-31,2025-02-03,N
+353,Copernicus Lodge - 3S & 6S,66 Roncesvalles Ave,LTCH,Respiratory,Influenza A (H1N1),None,2025-01-31,2025-02-15,N
+354,Kennedy Lodge - 2 South & 3 South,1400 Kennedy Rd,LTCH,Respiratory,Coronavirus*,None,2025-01-30,2025-02-18,N
+355,Yee Hong Centre Scarborough McNicoll - 3rd Fl,2311 McNicoll Ave,LTCH,Respiratory,COVID-19,None,2025-01-30,2025-02-14,N
+356,Unity Health Toronto - Providence Healthcare - B5,3276 St. Clair Ave W,Hospital-Chronic Care,Respiratory,Respiratory syncytial virus,None,2025-01-30,2025-02-15,N
+357,Shepherd Terrace,3760 Sheppard Ave E,Retirement Home,Enteric,Unable to identify,None,2025-01-30,2025-02-14,N
+358,Copernicus Lodge - 6 South,66 Roncesvalles Ave,LTCH,Enteric,Norovirus,None,2025-01-30,2025-02-10,N
+359,Seven Oaks - 1st Fl,9 Neilson Rd,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-30,2025-02-12,N
+360,Centre for Addiction and Mental Health - Unit 1-2,1001 Queen St W,Hospital-Psychiatric,Respiratory,Influenza A (Not subtyped),None,2025-01-29,2025-02-06,N
+361,William Osler Health System - Etobicoke General Hospital - 9W,101 Humber College Blvd,Hospital-Acute Care,Respiratory,COVID-19,None,2025-01-29,2025-02-06,N
+362,Cummer Lodge - 4N,205 Cummer Ave,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-29,2025-02-07,N
+363,Villa Colombo Homes for the Aged - 2nd Fl,40 Playfair Ave,LTCH,Respiratory,Influenza A (Not subtyped),Influenza A (H3),2025-01-29,2025-02-13,N
+364,The Annex - 2nd Fl,123 Spadina Rd,Retirement Home,Respiratory,Respiratory syncytial virus,None,2025-01-28,2025-02-02,N
+365,"Chester Village - 1W, 4W & 4E",3555 Danforth Ave,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-28,2025-02-10,N
+366,Yee Hong Centre - Scarborough Finch - 2nd Fl,60 Scottfield Dr,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-28,2025-02-07,N
+367,"Deerwood Creek Community - 1A, 2A & 2B",70 Humberline Dr,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-28,2025-02-12,N
+368,Tendercare Living Centre,1020 McNicoll Ave,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-27,2025-02-08,N
+369,Humber Meadows Long Term Care Home - 3N,2109 Finch Avenue W,LTCH,Respiratory,Coronavirus*,None,2025-01-27,2025-02-05,N
+370,Hellenic Home - Scarborough - Ground Fl,2411 Lawrence Ave E,LTCH,Respiratory,Rhinovirus,None,2025-01-27,2025-02-16,N
+371,The Claremont,305 Balliol St,Retirement Home,Respiratory,Influenza A (Not subtyped),None,2025-01-27,2025-02-07,N
+372,Baycrest Hospital - 7E,3560 Bathurst St,Hospital-Chronic Care,Respiratory,Influenza A (Not subtyped),None,2025-01-27,2025-02-03,N
+373,Baycrest Apotex Centre - Jewish Home for the Aged - 3EI,3560 Bathurst St,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-27,2025-02-12,N
+374,Baycrest Hospital - 7E,3560 Bathurst St,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-01-27,2025-02-05,N
+375,"Mon Sheong Home for the Aged - 2F, 4F & 5F",36 D'Arcy St,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-27,2025-02-16,N
+376,Presentation Manor,61 Fairfax Cres,Retirement Home,Respiratory,COVID-19,None,2025-01-27,2025-02-11,N
+377,Chartwell Guildwood,65 Livingston Rd,Retirement Home,Enteric,Unable to identify,None,2025-01-27,2025-02-10,N
+378,Greenview Lodge - 3rd Fl,880 Lawrence Ave E,Retirement Home,Respiratory,COVID-19,None,2025-01-27,2025-02-11,N
+379,Weston Terrace Care Community - 4B,2005 Lawrence Ave W,LTCH,Respiratory,COVID-19,None,2025-01-26,2025-02-05,N
+380,Weston Gardens Retirement Residence,303 Queens Dr,Retirement Home,Respiratory,COVID-19,None,2025-01-26,2025-02-12,N
+381,The Heritage Nursing Home - 4th Fl,1195 Queen St E,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-24,2025-02-11,N
+382,Trillium Health Partners - McCall Centre for Continuing Care - 3rd Fl,140 Sherway Dr,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-01-24,2025-02-27,N
+383,Wellesley Central Place - 4 West,160 Wellesley St E,LTCH,Respiratory,Influenza A (H1N1),None,2025-01-24,2025-02-03,N
+384,Don Mills Retirement Residence - 9th Fl,2 Green Belt Dr,Retirement Home,Respiratory,COVID-19,None,2025-01-24,2025-01-30,N
+385,Nisbet Lodge - 11th Fl,740 Pape Ave,LTCH,Respiratory,COVID-19,None,2025-01-24,2025-02-03,N
+386,TEHN - Michael Garron Hospital - J5,825 Coxwell Ave,Hospital-Acute Care,Enteric,Unable to identify,None,2025-01-24,2025-01-31,N
+387,Humber Valley Terrace - 2nd & 3rd Fl,95 Humber College Blvd,LTCH,Enteric,Norovirus,None,2025-01-24,2025-02-08,N
+388,One Kenton Place - 2nd Fl,1 Kenton Dr,Retirement Home,Respiratory,COVID-19,None,2025-01-23,2025-02-06,N
+389,Amica Bayview Gardens - 4th & 7th Fl,19 Rean Dr,Retirement Home,Respiratory,Metapneumovirus,None,2025-01-23,2025-02-03,N
+390,Amica Bayview Gardens - 7th & 8th Fl,19 Rean Dr,Retirement Home,Respiratory,COVID-19,None,2025-01-23,2025-02-05,N
+391,Unity Health Toronto - St. Joseph's Health Centre - 3M,30 The Queensway,Hospital-Acute Care,Respiratory,Influenza A (Not subtyped),None,2025-01-23,2025-02-04,N
+392,Centre for Addiction and Mental Health - Unit 1-5,1001 Queen St W,Hospital-Psychiatric,Respiratory,Influenza A (Not subtyped),None,2025-01-22,2025-02-01,N
+393,Trillium Health Partners - McCall Centre for Continuing Care - 2nd Fl,140 Sherway Dr,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-01-22,2025-02-04,N
+394,St. George Care Community - 4th Fl,225 St. George St,LTCH,Respiratory,COVID-19,None,2025-01-22,2025-01-28,N
+395,Unity Health Toronto - Providence Healthcare - A5,3276 St. Clair Ave E,Hospital-Chronic Care,Respiratory,Respiratory syncytial virus,None,2025-01-22,2025-01-30,N
+396,Baycrest Apotex Centre - Jewish Home for the Aged - 3GS,3560 Bathurst St,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-22,2025-01-30,N
+397,Labdara Lithuanian Nursing Home,5 Resurrection Rd,LTCH,Enteric,Norovirus,None,2025-01-22,2025-02-14,N
+398,Better Living at Thompson House - 2nd Fl,1 Overland Dr,LTCH,Respiratory,Unable to identify,None,2025-01-21,2025-02-03,N
+399,West Park Healthcare Centre - 2C - Pod 2,170 Emmett Ave,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-01-21,2025-02-05,N
+400,Humber Meadows Long Term Care - 2S & 4S,2109 Finch Ave W,LTCH,Respiratory,Influenza A (Not subtyped),Coronavirus*,2025-01-21,2025-02-11,N
+401,Unity Health Toronto - St. Joseph's Health Centre - 4M,30 The Queensway,Hospital-Acute Care,Respiratory,COVID-19,None,2025-01-21,2025-02-11,N
+402,Belmont House - 3WW,55 Belmont St,LTCH,Respiratory,Influenza A (H1N1),None,2025-01-21,2025-01-29,N
+403,The Hospital for Sick Children - 8C,555 University Ave,Hospital-Acute Care,Enteric,Unable to identify,None,2025-01-21,2025-01-25,N
+404,Sinai Health - Hennick Bridgepoint Hospital - 9 South,1 Bridgepoint Dr,Hospital-Chronic Care,Respiratory,Influenza A (Not subtyped),None,2025-01-20,2025-01-25,N
+405,Fieldstone Commons Care Community - 2A,1000 Ellesmere Rd,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-20,2025-01-28,N
+406,William Osler Health System - Etobicoke General Hospital - 9E,101 Humber College Blvd,Hospital-Acute Care,Respiratory,Influenza A (Not subtyped),None,2025-01-20,2025-01-26,N
+407,"Fountain View Care Community - 1A, 2A & 2B",1800 O'Connor Dr,LTCH,Enteric,Norovirus,None,2025-01-20,2025-02-05,N
+408,Weston Gardens TCU - 2nd Fl,303 Queens Dr,Retirement Home,Respiratory,COVID-19,None,2025-01-20,2025-01-28,N
+409,Unity Health Toronto - Houses of Providence - 3W Walnut & Poplar,3276 St. Clair Ave E,LTCH,Respiratory,Respiratory syncytial virus,Influenza A (Not subtyped),2025-01-20,2025-01-29,N
+410,Baycrest Apotex Centre - Jewish Home for the Aged - 4RF,3560 Bathurst St,LTCH,Respiratory,COVID-19,None,2025-01-20,2025-01-28,N
+411,Kensington Gardens - North Building - 3 West,45 Brunswick Ave,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-20,2025-01-31,N
+412,TEHN - Atrium at Kew Beach - 3rd Fl,500 Kingston Rd,Hospital-Chronic Care,Enteric,Unable to identify,None,2025-01-20,2025-01-23,N
+413,Cedarbrook Lodge - 5N,520 Markham Rd,Retirement Home,Respiratory,COVID-19,None,2025-01-20,2025-01-25,N
+414,Chartwell Gibson Long Term Care Residence - 2nd Fl,1925 Steeles Ave E,LTCH,Respiratory,Respiratory syncytial virus,None,2025-01-19,2025-02-06,N
+415,Hawthorne Place Care Centre - 1st Fl,2045 Finch Ave W,LTCH,Respiratory,COVID-19,None,2025-01-19,2025-02-07,N
+416,Norfinch Care Community - 2A,22 Norfinch Dr,LTCH,Respiratory,COVID-19,None,2025-01-19,2025-01-29,N
+417,Amica on the Avenue - 4th Fl,1066 Avenue Rd,Retirement Home,Respiratory,Unable to identify,None,2025-01-18,2025-01-31,N
+418,Copernicus Lodge - 3 South,66 Roncesvalles Ave,LTCH,Enteric,Norovirus,None,2025-01-18,2025-01-26,N
+419,"Amica Bayview Gardens - 4th, 7th & 10th Fl",19 Rean Dr,Retirement Home,Enteric,Unable to identify,None,2025-01-17,2025-01-28,N
+420,Kensington Gardens South Building - 4E & 4W,25 Brunswick Ave,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-17,2025-02-10,N
+421,Baycrest Hospital - H5E,3560 Bathurst St,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-01-17,2025-02-08,N
+422,L'Chaim Retirement Homes,718 Sheppard Ave W,Retirement Home,Respiratory,Influenza A (Not subtyped),None,2025-01-17,2025-01-25,N
+423,Harold and Grace Baker Centre - 3rd & 6th Fl,1 Northwestern Ave,Retirement Home,Respiratory,Respiratory syncytial virus,None,2025-01-16,2025-01-31,N
+424,Lakeside Long Term Care Centre - 1st & 4th Fl,150 Dunn Ave,LTCH,Enteric,Unable to identify,None,2025-01-16,2025-01-31,N
+425,UHN - Toronto General Hospital - 8ES,200 Elizabeth St,Hospital-Acute Care,Respiratory,Influenza A (Not subtyped),"Influenza A ((H1N1)pdm09), Influenza A (H3)",2025-01-16,2025-01-22,N
+426,Centennial Park Place,25 Centennial Park Rd,Retirement Home,Enteric,Norovirus,None,2025-01-16,2025-01-24,N
+427,Baycrest Apotex Centre - Jewish Home for the Aged - 5RF,3560 Bathurst St,LTCH,Respiratory,COVID-19,None,2025-01-16,2025-01-23,N
+428,Wesburn Manor,400 The West Mall,LTCH,Respiratory,COVID-19,None,2025-01-16,2025-02-13,N
+429,Nisbet Lodge - 9th Fl,740 Pape Ave,LTCH,Respiratory,Coronavirus*,None,2025-01-16,2025-01-20,N
+430,Sinai Health - Hennick Bridgepoint - 2N,1 Bridgepoint Dr,Hospital-Chronic Care,Enteric,Norovirus,None,2025-01-15,2025-01-26,N
+431,Amica on the Avenue - 2nd & 6th Fl,1066 Avenue Rd,Retirement Home,Respiratory,COVID-19,None,2025-01-15,2025-01-28,N
+432,Casey House - 3rd Fl Inpatient Unit,119 Isabella St,Hospital-Acute Care,Respiratory,Influenza A (Not subtyped),None,2025-01-15,2025-01-26,N
+433,Mindland Gardens Care Community - 2nd Fl,130 Midland Ave,LTCH,Respiratory,Influenza A (H1N1),None,2025-01-15,2025-01-24,N
+434,Lakeside - 1st & 4th Fl,150 Dunn Ave,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-15,2025-02-03,N
+435,West Park Long Term Care - Weston & Mulholland,150 Emmett Ave,LTCH,Respiratory,COVID-19,None,2025-01-15,2025-02-08,N
+436,Retirement Suites by the Lake - 1st & 3rd Fl,2121 Kingston Rd,LTCH,Respiratory,COVID-19,None,2025-01-15,2025-02-03,N
+437,Maynard Nursing Home - 1st & 2nd Fl,28 Halton St,LTCH,Enteric,Norovirus,None,2025-01-15,2025-02-02,N
+438,McCowan Retirement Residence - 6th Fl,2881 Eglinton Ave E,Retirement Home,Respiratory,Respiratory syncytial virus,None,2025-01-15,2025-01-31,N
+439,Forestview Retirement Residence,537 Finch Ave W,Retirement Home,Respiratory,COVID-19,None,2025-01-15,2025-02-12,N
+440,Westside Long Term Care Centre - 2nd Fl,1145 Albion Rd,LTCH,Respiratory,Respiratory syncytial virus,None,2025-01-14,2025-01-22,N
+441,The Annex,123 Spadina Rd,Retirement Home,Respiratory,Influenza A (Not subtyped),None,2025-01-14,2025-01-28,N
+442,UHN - Toronto Rehabiliitation Institute - Bickle Centre - North 3,130 Dunn Ave,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-01-14,2025-01-26,N
+443,Chartwell Grenadier Retirement Residence,2100 Bloor St W,Retirement Home,Enteric,Norovirus,None,2025-01-14,2025-02-16,N
+444,Scarborough Health Network - General Hospital - Tower 7,3050 Lawrence Ave E,Hospital-Acute Care,Respiratory,COVID-19,None,2025-01-14,2025-01-23,N
+445,Scarborough Health Network - General Hospital - Tower 7,3050 Lawrence Ave E,Hospital-Acute Care,Respiratory,Respiratory syncytial virus,None,2025-01-14,2025-01-31,N
+446,Baycrest Apotex Centre - Jewish Home for the Aged - 5RF,3560 Bathurst St,LTCH,Respiratory,Unable to identify,None,2025-01-14,2025-01-23,N
+447,Extendicare Bayview - 1st Fl East Unit,550 Cummer Ave,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-14,2025-01-27,N
+448,Yee Hong Centre - Scarborough Finch - 4 North & 4 South,60 Scottfield Dr,LTCH,Respiratory,COVID-19,None,2025-01-14,2025-02-03,N
+449,The Briton House,720 Mount Pleasant Rd,Retirement Home,Enteric,Unable to identify,None,2025-01-14,2025-01-24,N
+450,"Nisbet Lodge - 6th, 9th & 11th Fl",740 Pape Ave,LTCH,Enteric,Unable to identify,None,2025-01-14,2025-02-03,N
+451,Better Living at Thompson House - 3rd Fl,1 Overland Dr,LTCH,Respiratory,Influenza A (H1N1),None,2025-01-13,2025-01-21,N
+452,The Heritage Nursing Home - 2nd Fl,1195 Queen St E,LTCH,Respiratory,Metapneumovirus,None,2025-01-13,2025-02-03,N
+453,UHN - Toronto Rehabilitation Institute - Bickle Centre - South 4,130 Dunn Ave,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-01-13,2025-01-28,N
+454,UHN - Toronto General Hospital - 13 ES,200 Elizabeth St,Hospital-Acute Care,Respiratory,Influenza A (Not subtyped),None,2025-01-13,2025-01-23,N
+455,Hellenic Care for Seniors - 1st Fl,215 Tyrrel Ave,LTCH,Enteric,Norovirus,None,2025-01-13,2025-01-18,N
+456,St. Clair O'Connor Community Nursing Home - 3rd Fl,2701 St.Clair Ave E,LTCH,Enteric,Unable to identify,None,2025-01-13,2025-01-24,N
+457,"Bendale Acres - 2 East, 4th & 6th Fl",2920 Lawrence Ave E,LTCH,Respiratory,Influenza A (H1N1),None,2025-01-13,2025-01-30,N
+458,Unity Health Toronto - St. Joseph's Health Centre - 6G,30 The Queensway,Hospital-Acute Care,Respiratory,COVID-19,None,2025-01-13,2025-01-27,N
+459,Unity Health Toronto - St. Joseph's Health Centre - 6M,30 The Queensway,Hospital-Acute Care,Respiratory,COVID-19,None,2025-01-13,2025-02-07,N
+460,AgeCare Trilogy - 4th Fl,340 McCowan Rd,LTCH,Respiratory,Unable to identify,None,2025-01-13,2025-01-27,N
+461,Parkland on Eglinton West - 4th Fl - Memory Care Unit,4650 Eglinton Ave W,Retirement Home,Respiratory,COVID-19,None,2025-01-13,2025-01-31,N
+462,Runnymede Healthcare Centre - 3W,625 Runnymede Rd,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-01-13,2025-01-27,N
+463,Seven Oaks - 5th Fl,9 Neilson Rd,LTCH,Respiratory,Coronavirus*,None,2025-01-13,2025-02-02,N
+464,The Wexford,1860 Lawrence Ave E,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-12,2025-01-29,N
+465,RCC - Church Site - St. Joseph's Health Centre - 4B,200 Church St,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-01-12,2025-01-22,N
+466,Rockcliffe Care Community - 3rd Fl,3015 Lawrence Ave E,LTCH,Respiratory,Influenza A (H3),None,2025-01-12,2025-01-17,N
+467,Castleview Wychwood Towers - 5th & 7th Fl,351 Christie St,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-12,2025-01-26,N
+468,Tendercare Living Centre - 3 West,1020 McNicoll Ave,LTCH,Respiratory,COVID-19,None,2025-01-11,2025-01-20,N
+469,Cummer Lodge - 4th Fl South,205 Cummer Ave,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-01-11,2025-01-21,N
+470,Baycrest Hospital - H4E,3560 Bathurst St,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-01-11,2025-01-23,N
+471,Tyndall - McCall Centre for Continuing Care - 2nd Fl,140 Sherway Dr,LTCH,Respiratory,COVID-19,None,2025-01-10,2025-01-27,N
+472,Villa Colombo Homes for the Aged - 5 Fusco South,40 Playfair Ave,LTCH,Respiratory,Respiratory syncytial virus,None,2025-01-10,2025-01-15,N
+473,Aspira Kensington Place Retirement Living - 5th Fl,866 Sheppard Ave W,Retirement Home,Respiratory,Influenza A (H1N1),None,2025-01-10,2025-01-20,N
+474,West Park Long Term Care Centre - Glenwyld & Raymond,150 Emmett Ave,LTCH,Respiratory,COVID-19,None,2025-01-09,2025-01-21,N
+475,Isabel and Arthur Meighan Manor - 3rd Fl - Lawrence Unit,155 Millwood Rd,LTCH,Respiratory,Influenza A (H1N1),None,2025-01-09,2025-01-15,N
+476,Fountain View Care Community - 3B,1800 O'Connor Dr,LTCH,Respiratory,COVID-19,None,2025-01-09,2025-01-20,N
+477,Sunnybrook Health Sciences Centre - Sunnybrook Veterans Centre - K2C,2075 Bayview Ave,LTCH,Respiratory,Rhinovirus,None,2025-01-09,2025-01-17,N
+478,Kipling Acres - 3 North (Smithfield),2233 Kipling Ave,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-09,2025-01-21,N
+479,Extendicare Scarborough,3830 Lawrence Ave E,LTCH,Respiratory,Influenza A (H1N1),None,2025-01-09,2025-01-27,N
+480,Bethseda Home,4 Partridge Lane,Retirement Home,Respiratory,COVID-19,None,2025-01-09,2025-01-17,N
+481,Belmont House,55 Belmont St,Retirement Home,Enteric,Unable to identify,None,2025-01-09,2025-02-01,N
+482,Midland Gardens Care Community - 3rd Fl,130 Midland Ave,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-08,2025-01-15,N
+483,RCC - Church Site - Sunnybrook Health Sciences Centre - A3S,200 Church St,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-01-08,2025-01-17,N
+484,UHN - Toronto General Hospital - 7MB,200 Elizabeth St,Hospital-Acute Care,Respiratory,COVID-19,None,2025-01-08,2025-01-17,N
+485,Unity Health Toronto - Houses of Providence - HOP 2W - Pine & Elm,3276 St. Clair Ave E,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-08,2025-01-18,N
+486,Baycrest Apotex Centre - Jewish Home for the Aged - 5EI,3560 Bathurst St,LTCH,Enteric,Unable to identify,None,2025-01-08,2025-01-23,N
+487,Baycrest Apotex Centre - Jewish Home for the Aged - 5GS,3560 Bathurst St,LTCH,Enteric,Unable to identify,None,2025-01-08,2025-01-14,N
+488,Eatonville Care Centre - 2nd Fl,420 The East Mall,LTCH,Respiratory,COVID-19,None,2025-01-08,2025-01-20,N
+489,Nisbet Lodge - 4th & 5th Fl,740 Pape Ave,LTCH,Respiratory,COVID-19,None,2025-01-08,2025-01-21,N
+490,Ivan Franko Home - 3 West,767 Royal York Rd,LTCH,Respiratory,Influenza A (H1N1),None,2025-01-08,2025-01-16,N
+491,TEHN - Michael Garron Hospital - G5,825 Coxwell Ave,Hospital-Acute Care,Enteric,Unable to identify,None,2025-01-08,2025-01-12,N
+492,Sunnybrook Health Sciences Centre - K1W,2075 Bayview Ave,Hospital-Acute Care,Respiratory,COVID-19,None,2025-01-07,2025-01-17,N
+493,The Kensignton Gardens - South Building - 2 West,25 Brunswick Avenue,LTCH,Respiratory,Respiratory syncytial virus,None,2025-01-07,2025-01-24,N
+494,Tony Stacey Centre for Veterans Care,5935 Lawson Rd,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-07,2025-01-25,N
+495,Copernicus Lodge - 4 South,66 Roncesvalles Ave,LTCH,Enteric,Unable to identify,None,2025-01-07,2025-01-13,N
+496,TEHN - Michael Garron Hospital - J5,825 Coxwell Ave,Hospital-Acute Care,Respiratory,COVID-19,None,2025-01-07,2025-01-16,N
+497,TEHN - Michael Garron Hospital - J5,825 Coxwell Ave,Hospital-Acute Care,Enteric,Unable to identify,None,2025-01-07,2025-01-16,N
+498,Leaside,10 William Morgan Dr,Retirement Home,Enteric,Unable to identify,None,2025-01-06,2025-01-26,N
+499,True Davidson Acres - 3rd Fl,200 Dawes Rd,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-01-06,2025-01-16,N
+500,Chartwell Grenadier Retirement Residence - 2nd & 4th Fl - A Building,2100 Bloor St W,Retirement Home,Respiratory,COVID-19,None,2025-01-06,2025-01-25,N
+501,Kipling Acres - 1 South (Humber Unit),2233 Kipling Ave,LTCH,Respiratory,COVID-19,None,2025-01-06,2025-01-15,N
+502,Unity Health Toronto - St Joseph's Health Centre - 3M,30 The Queensway,Hospital-Acute Care,Respiratory,Influenza A (Not subtyped),None,2025-01-06,2025-01-11,N
+503,Downsview Long Term Care Centre - 2 Centre,3595 Keele St,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-06,2025-01-16,N
+504,The Hospital for Sick Children - 5B,555 University Ave,Hospital-Acute Care,Enteric,Norovirus,None,2025-01-06,2025-01-13,N
+505,Toronto Grace Salvation Army - CCC4,650 Church St,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-01-06,2025-01-14,N
+506,Mindland Gardens Care Community - 6th Fl,130 Midland Ave,LTCH,Respiratory,COVID-19,None,2025-01-05,2025-02-04,N
+507,Belmont House - 2WW,55 Belmont St,LTCH,Enteric,Unable to identify,None,2025-01-05,2025-01-16,N
+508,Sinai Health System - Mount Sinai Hospital - 14 South,600 University Ave,Hospital-Acute Care,Respiratory,COVID-19,None,2025-01-05,2025-01-13,N
+509,Better Living at Thompson House - 3rd Fl,1 Overland Dr,LTCH,Respiratory,Parainfluenza,None,2025-01-04,2025-01-24,N
+510,Meighen Retirement Residence,84 Davisville Ave,Retirement Home,Respiratory,COVID-19,None,2025-01-04,2025-01-21,N
+511,The Heritage Nursing Home - 1st Fl,1195 Queen St E,LTCH,Respiratory,COVID-19,None,2025-01-03,2025-01-24,N
+512,RCC - Church Site - Trillium Health Partners - 2C,200 Church St,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-01-03,2025-01-20,N
+513,Kensington Gardens - South Building,25 Brunswick Ave,LTCH,Respiratory,COVID-19,None,2025-01-03,2025-01-29,N
+514,SHSC - St. John's Rehabilitation Hospital - A1,285 Cummer Ave,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-01-03,2025-01-13,N
+515,Unity Health Toronto - St. Joseph's Health Centre - 2M,30 The Queensway,Hospital-Acute Care,Respiratory,COVID-19,None,2025-01-03,2025-01-11,N
+516,"Villa Colombo Homes for the Aged - 5 Fusco - North, West & South",40 Playfair Ave,LTCH,Respiratory,Unable to identify,None,2025-01-03,2025-01-17,N
+517,Amica Bayview Village - 2nd & 4th Fl,15 Barberry Pl,Retirement Home,Respiratory,COVID-19,None,2025-01-02,2025-01-13,N
+518,The Rekai Centres at Wellesley Street - 4 East,160 Wellesley St E,LTCH,Respiratory,Influenza A (H1),None,2025-01-02,2025-01-13,N
+519,"NYGH - Seniors' Health Centre - 1st, 2nd & 3rd Fl",2 Buchan Crt,LTCH,Enteric,Norovirus,None,2025-01-02,2025-01-28,N
+520,SHSC - St. John's Rehabilitation Hospital - A2,285 Cummer Ave,Hospital-Chronic Care,Respiratory,COVID-19,None,2025-01-02,2025-01-09,N
+521,Unity Health Toronto - St. Joseph's Health Centre - 4M,30 The Queensway,Hospital-Acute Care,Respiratory,Influenza A (Not subtyped),None,2025-01-02,2025-01-14,N
+522,Rekai Centres - Sherbourne Place - 2nd & 3rd Fl,345 Sherbourne St,LTCH,Respiratory,COVID-19,None,2025-01-02,2025-01-21,N
+523,UHN - Toronto Western Hospital - 8A,399 Bathurst St,Hospital-Acute Care,Respiratory,Influenza A (Not subtyped),None,2025-01-02,2025-01-12,N
+524,"Fudger House - 1W, 2W & 3W",439 Sherbourne St,LTCH,Respiratory,Influenza A (Not subtyped),None,2025-01-02,2025-01-19,N
+525,UHN - Princess Margaret Hospital - 15C,610 University Ave,Hospital-Acute Care,Respiratory,Parainfluenza type 3,None,2025-01-02,2025-01-10,N
+526,TEHN - Michael Garron Hospital - A3,825 Coxwell Ave,Hospital-Acute Care,Respiratory,COVID-19,None,2025-01-02,2025-01-11,N
+527,Wesburn Manor - 2 South,400 The West Mall,LTCH,Respiratory,Enterovirus/ Rhinovirus,None,2025-01-01,2025-01-13,N
+528,Runnymede Healthcare Centre - 3W,625 Runnymede Rd,Hospital-Chronic Care,Respiratory,Influenza A (Not subtyped),None,2025-01-01,2025-01-06,N
+529,Runnymede Healthcare Centre - 4W,625 Runnymede Rd,Hospital-Chronic Care,Respiratory,Influenza A (Not subtyped),None,2025-01-01,2025-01-06,N
