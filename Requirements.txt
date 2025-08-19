@@ -1,17 +1,13 @@
-
-● Git / GitHub
-● Python
-● pandas
-● Numpy
-● datetime
-● matplotlib
-● seaborn
-● folium
-● scikit-learn
-● xgboost
-● joblib
-● tensorflow
-● keras
-● sklearn.model_selection
-● sklearn.metrics
-● random
+Python
+pandas
+Numpy
+matplotlib
+seaborn
+folium
+scikit-learn
+xgboost
+joblib
+tensorflow
+keras
+sklearn.model_selection
+sklearn.metrics
